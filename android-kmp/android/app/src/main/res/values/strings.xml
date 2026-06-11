@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmbyTok</string>
+
+    <!-- Login screen -->
+    <string name="login_title">登录到你的媒体服务器</string>
+    <string name="login_subtitle">选择服务器类型并输入凭据以开始观看</string>
+    <string name="server_type_emby">Emby</string>
+    <string name="server_type_plex">Plex</string>
+    <string name="server_url_hint">服务器地址 (例如: http://192.168.1.10:8096)</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="api_key_hint">API Key (可选)</string>
+    <string name="access_token_hint">Access Token</string>
+    <string name="login_button">登录</string>
+    <string name="login_loading">正在连接…</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_error">无法连接，请检查地址与凭据</string>
+
+    <!-- Feed screen -->
+    <string name="feed_title">EmbyTok</string>
+    <string name="feed_loading">加载中…</string>
+    <string name="feed_empty">没有可播放的视频</string>
+    <string name="feed_sort_latest">最新添加</string>
+    <string name="feed_sort_most_played">最多播放</string>
+    <string name="feed_sort_rating">评分最高</string>
+    <string name="feed_sort_name">按名称</string>
+    <string name="feed_filter_portrait">竖屏视频</string>
+    <string name="feed_filter_landscape">横屏视频</string>
+    <string name="feed_filter_all">全部方向</string>
+
+    <!-- Player screen -->
+    <string name="player_playing">播放中</string>
+    <string name="player_paused">已暂停</string>
+    <string name="player_favorite">收藏</string>
+    <string name="player_favorited">已收藏</string>
+    <string name="player_add_to_favorites">添加到收藏合集</string>
+
+    <!-- Settings -->
+    <string name="settings_title">设置</string>
+    <string name="settings_appearance">外观</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_playback">播放</string>
+    <string name="settings_playback_speed">播放速度</string>
+    <string name="settings_subtitles">字幕</string>
+    <string name="settings_cache">缓存</string>
+    <string name="settings_clear_cache">清除缓存</string>
+    <string name="settings_account">账户</string>
+    <string name="settings_logout">退出登录</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_version">版本</string>
+
+    <!-- Generic -->
+    <string name="ok">好的</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="loading">加载中…</string>
+    <string name="error_unknown">发生未知错误</string>
+</resources>
