@@ -22,15 +22,15 @@
 
 ## 模块说明
 
-| 模块 | 说明 |
-|------|------|
-| `shared:common` | 通用工具：日志（Kermit）、时间处理、设备检测 |
-| `shared:domain` | 领域模型：数据类、接口定义 |
-| `shared:network` | 网络层：Emby/Plex API 客户端（Ktor） |
-| `shared:repository` | 仓储层：数据缓存、持久化（SQLDelight） |
-| `shared:usecase` | 用例层：业务逻辑封装 |
-| `android:app` | Android 应用：Compose UI、ViewModels |
-| `android:player` | 播放器模块：ExoPlayer 封装 |
+| 模块                | 说明                                         |
+| ------------------- | -------------------------------------------- |
+| `shared:common`     | 通用工具：日志（Kermit）、时间处理、设备检测 |
+| `shared:domain`     | 领域模型：数据类、接口定义                   |
+| `shared:network`    | 网络层：Emby/Plex API 客户端（Ktor）         |
+| `shared:repository` | 仓储层：数据缓存、持久化（SQLDelight）       |
+| `shared:usecase`    | 用例层：业务逻辑封装                         |
+| `android:app`       | Android 应用：Compose UI、ViewModels         |
+| `android:player`    | 播放器模块：ExoPlayer 封装                   |
 
 ## 技术栈
 
